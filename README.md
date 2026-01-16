@@ -1,1 +1,1 @@
-# gezeroyuncak.com
+#deneme
